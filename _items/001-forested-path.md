@@ -19,7 +19,7 @@ medievalparallel: |
 
     By the 16th century, 88 specific sites had emerged as a pilgrimage tradition that lives on today.
 
-    * Kim, Yung-Hee. Songs to Make the Dust Dance: The Ryojin Hisho of Twelfth-Century Japan. Berkeley, CA: University of California Press, 1994. http://ark.cdlib.org/ark:/13030/ft2f59n7x0/
+    * Kim, Yung-Hee. **Songs to Make the Dust Dance: The Ryojin Hisho of Twelfth-Century Japan**. Berkeley, CA: University of California Press, 1994. http://ark.cdlib.org/ark:/13030/ft2f59n7x0/
 
 learnmore: |
     - Take a course on medieval Japan with Professor Morten Oxenboell (East Asian Languages and Cultures)
