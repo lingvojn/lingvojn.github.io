@@ -2,12 +2,12 @@
 layout: pilgrimage
 title: "Travel a Forested Path"
 categories: [ East Asia, 9th century ]
-mapurl: "https://maps.app.goo.gl/GZXy2XVRA49MomiE6"
+mapurl: "https://www.google.com/maps/place/Het+Amsterdamse+Bos/@52.3067049,4.7986936,13.48z/data=!4m15!1m8!3m7!1s0x47c5e1b1f2eb0961:0x8fb6f82a2bc45ab6!2sHet+Amsterdamse+Bos!8m2!3d52.3149817!4d4.832342!10e1!16s%2Fm%2F04zz43p!3m5!1s0x47c5e1b1f2eb0961:0x8fb6f82a2bc45ab6!8m2!3d52.3149817!4d4.832342!16s%2Fm%2F04zz43p?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
 clue: "Find me at the bench in the center of Dunn's Woods."
 shortdesc: >
     Rain or shine, members of our community follow these tree-lined labyrinthine paths with the presence of the first holy person to walk these routes guiding them. Whether they observe the nature of beauty in isolation or seek the spiritual company of fellow travelers, each pilgrim crosses a boundary from the bustle of the brick-lined paths of the outside world into a quiet, contemplative forested preserve.
-lat: "39.1658751"
-long: "-86.5256635"
+lat: "52.3067049"
+long: "4.7986936"
 medievalparalleltitle: "Shikoku Henro"
 medievalmapurl: "https://www.google.com/maps/place/Ryozenji+Temple/@34.1596727,134.4999519,17z/data=!4m14!1m7!3m6!1s0x355371e674b682e3:0xb3d020fcc0b36321!2sRyozenji+Temple!8m2!3d34.1596727!4d134.5025268!16s%2Fm%2F0gmbx8q!3m5!1s0x355371e674b682e3:0xb3d020fcc0b36321!8m2!3d34.1596727!4d134.5025268!16s%2Fm%2F0gmbx8q"
 medievalparallel: |
