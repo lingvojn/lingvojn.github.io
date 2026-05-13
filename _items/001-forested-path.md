@@ -2,7 +2,7 @@
 layout: pilgrimage
 title: "Travel a Forested Path"
 categories: [ East Asia, 9th century ]
-mapurl: "https://www.google.com/maps/place/39°09'57.2%22N+86°31'32.4%22W/@39.1658751,-86.5256635,17z/data=!3m1!4b1!4m4!3m3!8m2!3d39.1658751!4d-86.5256635"
+mapurl: "https://maps.app.goo.gl/GZXy2XVRA49MomiE6"
 clue: "Find me at the bench in the center of Dunn's Woods."
 shortdesc: >
     Rain or shine, members of our community follow these tree-lined labyrinthine paths with the presence of the first holy person to walk these routes guiding them. Whether they observe the nature of beauty in isolation or seek the spiritual company of fellow travelers, each pilgrim crosses a boundary from the bustle of the brick-lined paths of the outside world into a quiet, contemplative forested preserve.
