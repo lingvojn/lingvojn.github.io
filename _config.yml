@@ -3,7 +3,7 @@
 #---------------------
 # THEME. Leave Lines 4-6 alone.
 #---------------------
-# built on Virtual-Medieval-Pilgrimage/pilgrimage-theme
+# built on Virtual-Medieval-Pilgrimage/pilgrimage-theme@v0.0.1
 remote_theme: Virtual-Medieval-Pilgrimage/pilgrimage-theme
 repository: 'Virtual-Medieval-Pilgrimage/pilgrimage-template' # change this to your repository name
 
