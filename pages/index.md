@@ -1,10 +1,10 @@
 ---
-title: A Pilgrimage through the Global Middle Ages
+title: A Pilgrimage through the Global Middle Ages in Amsterdam
 layout: collection
 permalink: /
 ---
 
-## A Pilgrimage through the Global Middle Ages
+## A Pilgrimage through the Global Middle Ages in Amsterdam
 
 ### Welcome, fellow pilgrim!
 
@@ -19,3 +19,5 @@ Popular concepts of the Middle Ages—think Game of Thrones—draw on limited, m
 *   **Develop Critical Historical Skills:** Evaluate historical sources carefully, look for missing information, and actively seek out new perspectives to enrich your understanding.
     
 *   **Challenge Traditional Assumptions:** Use modern tools to question outdated ideas about what "medieval" means, in both its historical context and in the modern world.
+
+[about](lingvojn.github.io/pages/about.md)
