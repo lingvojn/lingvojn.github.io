@@ -18,9 +18,7 @@ medievalparallel: |
     > Someone among the fathers told that one of the elderly ones, who was pure and saint, when he "did the proskomide" (i.e. celebrated Mass) saw angels staying at his right and at his left. He had taken over the "proskomide" from the heretics, and since he was ignorant about divine doctrines, he said the words of the offering in simplicity and innocence, not knowing that he was wrong. By providence, some brother, an expert in divine doctrines visited him. It came to pass that the old man made the offering in his presence. The brother said to him (he was a deacon): The words you said for the proskomide, Father, are not of the orthodox faith, but of the bad doctrine. The old one, since he saw angels during the offering, did not pay attention to what was said, but disdained it. The deacon insisted saying "You are in error, good old one, the Church does not accept this". The old man, seeing that he was accused and blamed in that way by the deacon, saw the angels as usual and asked them: "Since that deacon talks to me in such a way, what is it that he says?" The angels said: "Listen to him: he says the truth". The old one said to them: "And why did not you tell me that?" They said to him: "Because God disposed thus, that humans should be corrected by humans". And since then he corrected himself and thanked God and the brother.
 learnmore: |
     - Take a course on John Moschos, monasticism, and travel literature in late antiquity and the medieval Mediterranean with Professor Jeremy Schott or Professor Daniel Caner (Religious Studies)
-    - Find the Medieval Studies Academic Advisor, Dr. William Smith, at GISB 1028
-medievallat: 27.3818648
-medievallong: 30.7752614
+    - Visit "https://student.uva.nl/en/information/study-adviser#" to contact the BA English study advisor, Mariël van der Veldt.
 entryauthor:
   name: "Nicolò Sassi"
   affiliation: "Theological Studies, St. Louis University"
