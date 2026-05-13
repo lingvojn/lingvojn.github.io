@@ -2,11 +2,11 @@
 layout: pilgrimage
 title: "Visit a famous healer"
 categories: [ Western Europe, 6th century ]
-mapurl: "https://www.google.com/maps/place/39°10'18.4%22N+86°30'53.5%22W/@39.168475,-86.5190231,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xa3a707413680b6ab!8m2!3d39.1684755!4d-86.5170528!3m4!1s0x0:0xa3a707413680b6ab!8m2!3d39.1684755!4d-86.5170528"
-clue: "Find me at the IU Health Center's drive-in gate."
-shortdesc: "The IU community flocks here for the laying on of hands. Holy men and women here cure minor chronic illnesses like fevers and joint pain as well as acute illnesses and serious injuries, but it’s uphill both ways and you have to get past the keeper of the shrine first."
-lat: "39.1717635"
-long: "-86.5148642"
+mapurl: "https://www.google.com/maps/place/Huisartsenpraktijk+UvA+Oude+Turfmarkt🩺/@52.3678626,4.8892727,17z/data=!4m15!1m8!3m7!1s0x47c609c06c4a57ab:0x8ac30333542d6014!2sOude+Turfmarkt+151,+1012+GC+Amsterdam!3b1!8m2!3d52.3678594!4d4.894149!16s%2Fg%2F11bw3y5q35!3m5!1s0x47c609c01274882b:0x7e5ed608caf5e832!8m2!3d52.3678594!4d4.894149!16s%2Fg%2F1v5_8mnt?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
+clue: "Find me near Hotel Europa."
+shortdesc: "UvA students flock here for the laying on of hands. Holy men and women here cure minor chronic illnesses like fevers and joint pain as well as acute illnesses and serious injuries, but it’s uphill both ways and you have to get past the keeper of the shrine first."
+lat: "52.3678626"
+long: "4.8892727"
 medievalparallel: >
     The Shrine of St. Martin of Tours ([47.3946308,-38.3422852](https://www.google.com/maps/place/Basilique+Saint-Martin+de+Tours/@47.2624296,0.4948073,10.7z/data=!4m6!3m5!1s0x47fcd5b990083839:0x54707a62731ee7a6!8m2!3d47.3929762!4d0.6828872!16s%2Fm%2F07kg63_))
 
@@ -21,4 +21,6 @@ img:
     Shrine of St. Martin of Tours, Parsifall, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
   source: https://commons.wikimedia.org/wiki/File:Tours,_Saint_Martin.JPG
 creationdate: 2026-01-29
+
+learnmore: Visit [this website](https://www.huisartsenamsterdam.nl/international/) to learn more.
 ---
