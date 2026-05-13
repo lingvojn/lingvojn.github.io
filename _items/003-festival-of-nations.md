@@ -1,6 +1,6 @@
 ---
 layout: pilgrimage
-language: "Old English"
+language: "Old English 한국어"
 title: "Join a Festival of Nations"
 categories: [ Americas, 11th century ]
 mapurl: "https://www.google.com/maps/place/39°10'05.1%22N+86°31'33.1%22W/@39.1680942,-86.5258565,17z/data=!3m1!4b1!4m4!3m3!8m2!3d39.1680942!4d-86.5258565"
