@@ -1,0 +1,72 @@
+---
+layout: page
+format: pilgrimage
+---
+
+<div class="grid-container">
+	<div class="grid-x grid-padding-x">
+		<div class="large-12 cell">
+
+			{% if page.entryauthor %}
+			<h2>
+				{% if page.entryauthor.contactinfo %}<a href="{{ page.entryauthor.contactinfo }}">{% endif %}
+				{{ page.entryauthor.name }}{% if page.entryauthor.contactinfo %}</a>{% endif %}</h2>
+			{% if page.entryauthor.affiliation %}<h3>{{ page.entryauthor.affiliation }}{% endif %}</h3>
+			{% endif %}
+
+			<h3>{{page.clue | markdownify}}</h3>
+			
+			{{page.shortdesc | markdownify}}
+
+			<p><a href="{{page.mapurl}}">Open map location</a></p>
+
+			<details class="pilgrimage-disclosure">
+				<summary>The medieval parallel</summary>
+				<div class="pilgrimage-disclosure__content">
+					{% if page.img %}
+						{% if page.img.file %}
+							{% if page.img.file contains 'https://' %}
+								{% assign imgSrc = page.img.file %}
+							{% else %}
+								{% capture imgSrc %}{{ site.baseurl }}/assets/items/{{ page.img.file }}{% endcapture %}
+							{% endif %}
+						{% elsif page.img contains 'https://' %}
+							{% assign imgSrc = page.img %}
+						{% else %}
+							{% capture imgSrc %}{{ site.baseurl }}/assets/items/{{ page.img }}{% endcapture %}
+						{% endif %}
+						{% if page.img.credit %}
+							{% assign imgCredit = page.img.credit %}
+						{% elsif page.imgcredit %}
+							{% assign imgCredit = page.imgcredit %}
+						{% endif %}
+						<figure class="pilgrimage-img-right">
+							<img src="{{ imgSrc }}" alt="{% if imgCredit %}{{ imgCredit | strip_html | strip }}{% endif %}">
+							{% if imgCredit %}
+							<figcaption>
+								{% if page.img.source %}<a href="{{ page.img.source }}">{% endif %}
+								{{ imgCredit }}
+								{% if page.img.source %}</a>{% endif %}
+							</figcaption>
+							{% endif %}
+						</figure>
+					{% endif %}
+					{% if page.img.source %}<h2>{{page.medievalparalleltitle}}</h2>{% endif %}
+					{{page.medievalparallel | markdownify}}
+				</div>
+			</details>
+
+			{% if page.learnmore %}
+			<details class="pilgrimage-disclosure">
+				<summary>Find someone near you who can help you learn more</summary>
+				<div class="pilgrimage-disclosure__content">
+					{{page.learnmore | markdownify}}
+				</div>
+			</details>
+			{% endif %}
+
+			{{ content }}
+
+		</div>
+	</div>
+</div>
