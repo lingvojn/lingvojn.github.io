@@ -17,8 +17,7 @@ medievalparallel: |
 
     On the surface, debate poems typically appear didactic, but under this often lies a genuine dialogue between two equally paired opponents.
 
-learnmore: |
+learnmore: >
     - Take a course on Middle English with Dr. Robert A. Cloutier (English Language and Culture)
 
-creationdate: 2026-01-29
 ---
