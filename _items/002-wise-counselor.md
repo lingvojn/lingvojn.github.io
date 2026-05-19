@@ -5,7 +5,7 @@ categories: [ Eastern Mediterranean, 6th century ]
 mapurl: "https://www.google.com/maps/place/Universiteit+van+Amsterdam+-+P.C.+Hoofthuis/@52.3741756,4.8873651,17z/data=!3m1!4b1!4m6!3m5!1s0x47c609c6a24658b1:0x811f7e794b857e23!8m2!3d52.3741724!4d4.8899454!16s%2Fg%2F11b76wt4x_?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
 clue: "Find me in PCH"
 shortdesc: >
-    UvA students seek wisdom from people most often trained in the studia humanitatis (i.e. humanities). Such counselors offer advice on the wisdom amd what classes to take and what subjects to explore, can be found all across campus. Seek the most wise counsel for English Language and Culture in the labrythine concrete building, near the Royal Palace, behind the old post office building along the original canal of the city.
+    UvA students seek wisdom from people most often trained in the studia humanitatis (i.e. humanities). Such counselors offer advice on the wisdom and what classes to take and what subjects to explore, can be found all across campus. Seek the most wise counsel for English Language and Culture in the labrythine concrete building, near the Royal Palace, behind the old post office building along the original canal of the city.
 lat: "52.3741756"
 long: "4.8873651"
 medievalparalleltitle: "John Moschos' _Spiritual Meadow_"
@@ -19,14 +19,9 @@ medievalparallel: |
 learnmore: |
     - Take a course on John Moschos, monasticism, and travel literature in late antiquity and the medieval Mediterranean with Professor Jeremy Schott or Professor Daniel Caner (Religious Studies)
     - Visit [this webpage](https://student.uva.nl/en/information/study-adviser#) to contact the BA English study advisor, Mariël van der Veldt.
-entryauthor:
-  name: "Nicolò Sassi"
-  affiliation: "Theological Studies, St. Louis University"
-  contact: "https://www.slu.edu/arts-and-sciences/theological-studies/faculty/nicolo-sassi.php"
 img:
   file: https://upload.wikimedia.org/wikipedia/commons/e/e1/St._Theodosius_Monastery_%289198074875%29.jpg
   credit: |
     John of Moschos' reported burial place, the Monastery of St. Theodosius. someone10x, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons
   source: https://commons.wikimedia.org/wiki/File:St._Theodosius_Monastery_(9198074875).jpg
-creationdate: 2026-01-29
 ---
