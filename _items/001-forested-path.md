@@ -22,17 +22,10 @@ medievalparallel: |
     * Kim, Yung-Hee. **Songs to Make the Dust Dance: The Ryojin Hisho of Twelfth-Century Japan**. Berkeley, CA: University of California Press, 1994. http://ark.cdlib.org/ark:/13030/ft2f59n7x0/
 
 learnmore: |
-    - Take a course on medieval Japan with Professor Morten Oxenboell (East Asian Languages and Cultures)
-    - Find out more from Professor Heather Blair (Religious Studies), whose current project *Reverently I Pray* looks at patronage networks and prayer in medieval Japan
-medievallat: 34.1596727
-medievallong: 134.5003381
-entryauthor:
-  name: "Morten Oxenboell"
-  affiliation: "East Asian Languages and Cultures, Indiana University"
+    - Take a course on medieval Japan with Dr. Angelika Koch-Low at the Universiteit Leiden.
 img:
   file: ShikokuHenro_Kukai.jpg
   credit: |
     Eight Patriarchs of the Shingon Sect of Buddhism, Kūkai; Kamakura period, 13th-14th century. Source: Integrated Collections Database of the National Museums, Japan, https://colbase.nich.go.jp/collection_items/narahaku/797-8?locale=en
   source: https://colbase.nich.go.jp/collection_items/narahaku/797-8?locale=en
-creationdate: 2026-01-29
 ---
