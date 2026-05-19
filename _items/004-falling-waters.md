@@ -2,12 +2,12 @@
 layout: pilgrimage
 title: "Falling Waters Mark a Festival and the Start of a Pilgrimage"
 categories: [ East Asia, 11th century ]
-mapurl: "https://www.google.com/maps/place/39°10'07.0%22N+86°31'07.5%22W/@39.1686157,-86.5187372,17z/data=!3m1!4b1!4m4!3m3!8m2!3d39.1686157!4d-86.5187372"
+mapurl: "https://www.google.com/maps/place/Freedam+Tours/@52.3742718,4.8952215,21z/data=!4m9!1m2!2m1!1sfontein!3m5!1s0x47c6095029a5d443:0xb32f4b002007527e!8m2!3d52.374255!4d4.8954052!16s%2Fg%2F11g0ht_84d?entry=ttu&g_ep=EgoyMDI2MDUxMS4wIKXMDSoASAFQAw%3D%3D"
 clue: "This fountain isn't crowned by a mermaid. She's got two feet! (And six fishy companions.)"
 shortdesc: >
     Festivals and pilgrimage sites go together like fish in water. Bonus: there's almost always a marketplace with food stalls and fun activities nearby!
-lat: "39.1686157"
-long: "-86.5187372"
+lat: "52.374271"
+long: "4.8952215"
 medievalparalleltitle: "Kumano Sanzan, or the Three Mountains of Kumano"
 medievalmapurl: "https://www.google.com/maps/place/Kumano-Nachi+Grand+Shrine/@33.8832834,135.032608,9z/data=!4m10!1m2!2m1!1skumano+kodo!3m6!1s0x600615770beeded5:0x2cdbc65763e652b1!8m2!3d33.6686506!4d135.8901334!15sCgtrdW1hbm8ga29kb1oNIgtrdW1hbm8ga29kb5IBDXNoaW50b19zaHJpbmWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTmFOR055TFV0M0VBReABAPoBBAg_EBk!16s%2Fm%2F02r268t"
 medievalparallel: |
