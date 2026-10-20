@@ -4,7 +4,8 @@ layout: collection
 permalink: /
 ---
 
-# Norman England Language & Society through Amsterdam
+# A Pilgrimage through Norman England
+## Language & Society in Amsterdam
 
 A public route through Amsterdam that explores Middle English language, medieval society, and the meanings of pilgrimage.
 
