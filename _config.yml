@@ -1,11 +1,11 @@
 ##############################################
-# START YOUR CONFIGURATION HERE! For more info, visit https://pilgrimage.kalanicraig.com/quickstart
+# START YOUR CONFIGURATION HERE! For more info, visit [https://pilgrimage.kalanicraig.com/quickstart](https://pilgrimage.kalanicraig.com/quickstart)
 #---------------------
 # THEME. Leave Lines 4-6 alone.
 #---------------------
 # built on Virtual-Medieval-Pilgrimage/pilgrimage-theme
 remote_theme: Virtual-Medieval-Pilgrimage/pilgrimage-theme@v0.0.1
-repository: 'Virtual-Medieval-Pilgrimage/pilgrimage-template' # change this to your repository name
+repository: 'lingvojn/lingvojn.github.io' # change this to your repository name
 
 ##############################################
 # WHAT IS ALL THIS STUFF?
@@ -29,12 +29,12 @@ repository: 'Virtual-Medieval-Pilgrimage/pilgrimage-template' # change this to y
 # THE MOST IMPORTANT THING TO REMEMBER
 #---------------------
 # Variables are the things that drive your site.
-# In YAML, there's a variable name--a placeholder--at the beginning of the line.
+# In YAML, a variable name--a placeholder--appears at the beginning of the line.
 # Variables have colons after them in YAML.
 # After the variable comes the actual contents of the variable, usually in double quotes
 #               title: "Your Site Title"
 # If you use another double quote inside your variable, it will break this config file.
-#               title: "My "So-Called" Website"
+#               title: "My \"So-Called\" Website"
 #
 ##############################################
 # START CUSTOMIZING YOUR SITE HERE
@@ -43,44 +43,44 @@ repository: 'Virtual-Medieval-Pilgrimage/pilgrimage-template' # change this to y
 #---------------------
 
 # Title of your website
-title: "Global Medieval Pilgrimage in Amsterdam"
+title: "Norman England Language & Society through Amsterdam"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: "Go on a medieval pilgrimage without leaving home"
+subtitle: "A public route through Middle English language, medieval society, and Amsterdam"
 
 # A longer description of your site (max 150 words). Helps search engines find you.
-description: "People all over the globe took pilgrimages between 500 and 1500 to express their religious beliefs, participate in community rituals, trade goods, and see new places. Now it's your turn."
+description: "Explore Middle English language and Norman English society through locations in Amsterdam. This public route pairs short Middle English passages with contemporary Amsterdam places, inviting visitors to consider language, belief, community, movement, and historical comparison. Amsterdam is used as a setting for reflection and comparison, not as evidence of direct continuity with medieval England."
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
-author: "KalaniCraig"
-authorname : "Virtual Medieval Pilgrimage by Kalani Craig"
+author: "Students and teaching team, Middle English Language and Literature"
+authorname: "Norman England Language & Society through Amsterdam"
 
 # To change the photo on your homepage, open the assets folder in your Github repo, then open the img folder. Upload a photo there. Add only the name of the photo and its extension here. E.g. "alternate_logo.png")
 sitelogo: "site_logo.png"
 placeholderimg: "placeholder.png"
 
 # What year did you first host this pilgrimage?
-sitedate : 2025
+sitedate: 2026
 
 # Other community social media. Leave blank if you don't have these.
-email : "kalani@kalanicraig.com"
-website : "kalanicraig.com"
-twitter : ""
-github : "kalanicraig"
-facebook : ""
-instagram : ""
+email: ""
+website: ""
+twitter: ""
+github: "lingvojn"
+facebook: ""
+instagram: ""
 
-# If you need to know how many people visit your site, go to https://analytics.google.com/
+# If you need to know how many people visit your site, go to [https://analytics.google.com/](https://analytics.google.com/)
 # When you finish the setup assistant, it will give you a Measurement ID: G-ABCDEFGHIJ
-google_g4_analytics_id: 
+google_g4_analytics_id:
 
 ##############################################
 # FONTS AND COLORS
 #---------------------
 
 # Choose the FONTS you'd like to use.
-# You can see these font choices in action at https://digitalarcplatform.kalanicraig.com/docs/
+# You can see these font choices in action at [https://digitalarcplatform.kalanicraig.com/docs/](https://digitalarcplatform.kalanicraig.com/docs/)
 # Uncomment the line for the font you like. Comment out all of the other lines.
 
 #fontchoice: archivonarrow # A narrow sans-serif font for headlines and body text
@@ -94,7 +94,7 @@ fontchoice: source # A modern serif font with clean sans-serif accents
 #fontchoice: archivonarrow
 
 # Choose the COLORS you'd like to use.
-# You can see these color choices in action at https://digitalarcplatform.kalanicraig.com/docs/
+# You can see these color choices in action at [https://digitalarcplatform.kalanicraig.com/docs/](https://digitalarcplatform.kalanicraig.com/docs/)
 # Uncomment the line for the color you like. Comment out all of the other lines.
 
 #colorchoice: navy # Navy with bright teal and grey
@@ -110,7 +110,7 @@ colorchoice: red # Black, crimson and grey
 #colorchoice: whitewithaccent
 
 # If you chose white with an accent color, choose the ACCENT you'd like to use.
-# You can see these color choices in action at https://digitalarcplatform.kalanicraig.com/docs/
+# You can see these color choices in action at [https://digitalarcplatform.kalanicraig.com/docs/](https://digitalarcplatform.kalanicraig.com/docs/)
 # Uncomment the line for the color you like. Comment out all of the other lines.
 
 #accentchoice: accent-darkred # Dark red
@@ -137,9 +137,18 @@ collections:
     contributor: true
     creator: true
     group: true
+
   reception:
     output: true
     permalink: /:collection/:path:output_ext
+
+  # Entries retained from the earlier virtual pilgrimage project.
+  # These are examples of the format and comparative method.
+  # They are not part of the current Amsterdam route.
+  examples:
+    output: true
+    permalink: /examples/:name/
+
 # If your collection items need to be grouped by person, family or some other group, uncomment this collection
 #  groups:
 #    output: true
@@ -147,6 +156,7 @@ collections:
 #    name: true
 #    folder: true
 #    sort_by: folder
+
 # If you have oral histories that go with groups, uncomment this collection:
 #  oralhistories:
 #    output: true
@@ -154,6 +164,7 @@ collections:
 #    name: true
 #    folder: true
 #    sort_by: folder
+
   authors:
     output: false
     name: true
@@ -166,6 +177,7 @@ collections:
 
 # This URL is the main address for absolute links. This will usually be blank.
 url: 
+
 # If this archive will be in a folder (kalanicraig.com/digitalarcplatform/) instead of in its own main site (digitalarcplatform.github.io) add that folder name here. This will usually be blank. Use a forward slash before the folder name but not after, like so baseurl: '/foldername'
 baseurl: ''
 
@@ -177,21 +189,25 @@ baseurl: ''
 urlimg: '/assets/img/'
 urlitemimg: '/assets/items/'
 urlreceptionimg: '/assets/reception/'
+urlexampleimg: '/assets/examples/'
+
 permalink: /:categories/:year/:month/:day/:title:output_ext
 
-markdown : kramdown
+markdown: kramdown
 syntax_highlighter: rouge
 
 # This URL points directly to the images directory. It needs a slash at the end.
-exclude :
-    - Gemfile
-    - Gemfile.lock
-    - CNAME
-    - LICENSE
-    - README.md
-    - INSTALL.md
-    - vendor/bundle
-include: ['_pages']
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
+  - LICENSE
+  - README.md
+  - INSTALL.md
+  - vendor/bundle
+
+include:
+  - _pages
 
 sass:
   sass_dir: _sass
@@ -199,4 +215,3 @@ sass:
 
 plugins:
   - jekyll-seo-tag
-  
